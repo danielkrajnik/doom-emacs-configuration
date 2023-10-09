@@ -1,0 +1,4 @@
+#+title: Readme
+Selected contents of ~/.config/doom directory
+
+* Notes
