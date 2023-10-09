@@ -1,4 +1,4 @@
-#+title: Readme
-Selected contents of ~/.config/doom directory
+#+title: Doom Emacs configuration
 
+This isn't a backup of my current ~/.config/doom directory. Only chosen parts of the configuration are shared. Hopefully you will find them useful.
 * Notes
